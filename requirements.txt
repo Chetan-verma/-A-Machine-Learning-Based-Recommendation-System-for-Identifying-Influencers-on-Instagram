@@ -1,0 +1,10 @@
+streamlit
+SpeechRecognition
+PyAudio
+scikit-learn
+tensorflow
+tensorflow_hub
+nltk
+
+
+
